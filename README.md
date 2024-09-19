@@ -1,4 +1,5 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Jihyun!;Welcome+to+Jihyun's+GitHub!)](https://git.io/typing-svg)
+
 
 <!--
 **zeonzyeon/zeonzyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
