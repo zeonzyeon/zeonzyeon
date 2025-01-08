@@ -20,7 +20,7 @@
 
 <br>
 
-## ⚙️ <strong>Tools & IDEs & Productivity</strong>
+## ⚙️ <strong>Tools & IDEs</strong>
 
 ![github](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)
 ![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
@@ -31,10 +31,6 @@
 ![eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![visualstudiocode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![visualstudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-
-![powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## 🌐 <strong>Socials</strong>
 
