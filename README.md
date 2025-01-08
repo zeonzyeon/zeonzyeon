@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=200&section=header&text=Jihyun's%20GitHub&fontSize=60&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=2F4F4F&height=220&section=header&text=Jihyun's%20GitHub.&fontSize=70&animation=fadeIn&fontColor=d6ace6)
 
 <div align="center">
 
@@ -45,7 +45,7 @@
 
 </div>
  
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=2F4F4F&height=150&section=footer)
 
 <!--
 **zeonzyeon/zeonzyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
