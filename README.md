@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Jihyun!;Welcome+to+Jihyun's+GitHub!)](https://git.io/typing-svg)
 
+<div align="center">
 
-🛠️ Development Skills
+## 🛠️ <strong>Development Skills</strong>
 
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -13,7 +13,7 @@
 
 <br>
 
-📚 Learning in Progress
+## 📚 <strong>Learning in Progress</strong>
 
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -21,44 +21,42 @@
 
 <br>
 
-⚙️ Tools & IDEs
+## ⚙️ <strong>Tools & IDEs</strong>
 
 ![intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![androidstudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![visualstudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![visualstudiocode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 <br>
 
-🔧 DevOps & Version Control
+## 🔧 <strong>DevOps & Version Control</strong>
 
-![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
 <br>
 
-🎨 Design & Productivity
+## 🎨 <strong>Design & Productivity</strong>
 
 ![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 <br>
 
-🌐 Socials
+## 🌐 <strong>Socials</strong>
 
 ![discord](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)
 ![google](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge)
 ![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeonzyeon&layout=compact)
+</div>
 
 <!--
 **zeonzyeon/zeonzyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
