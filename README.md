@@ -38,8 +38,7 @@
 
 ## 🌐 <strong>Socials</strong>
 
-![google](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge)
-![naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-hyuneejj%40gmail.com-C62828?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyuneejj@gmail.com)
 
 </div>
  
