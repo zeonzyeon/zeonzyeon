@@ -8,6 +8,7 @@
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![eGovFrame](https://img.shields.io/badge/eGovFrame-005BAC?style=for-the-badge)
 ![sql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![tibero](https://img.shields.io/badge/Tibero-0067B1?style=for-the-badge)
 ![MyBatis](https://img.shields.io/badge/MyBatis-B71C1C?style=for-the-badge)
 
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
